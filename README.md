@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=MBWolf&style=flat-square&color=blue" alt="MohammadBarabadi"/>
 
 <P>🤠 My name is Mohammad</P>
-<P>🎓 I hold a bachelor's degree in Electrical Engineering with a specialization in Control from Amirkabir University of Technology</P>
+<P>🎓 I hold a Bachelor’s degree in Electrical Engineering with a specialization in Control from Amirkabir University of Technology, and I am currently pursuing a Master’s in Autonomy Technologies at FAU Erlangen-Nürnberg</P>
 <P>🤖 I have a strong interest and actively engage in the field of robotics</P>
 
 <h3 align="left">Languages and Tools:</h3>
